@@ -3,5 +3,4 @@
 !.gitignore.example
 !.gitignore
 !test.py
-!test_java.py
-!test_py.py
+!README.md
